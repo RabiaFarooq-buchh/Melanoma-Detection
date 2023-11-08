@@ -1,1 +1,3 @@
 # Melanoma-Detection
+
+This project utilizes a custom CNN to detect melanoma in images of skin lesions across ten distinct classes. The model achieves an impressive 87% accuracy. This model will help in early detection of melanoma and the treatement can be started as early as possible .If left untreated, melanoma can have severe consequences. It may spread to other parts of the body, leading to metastasis. This can result in advanced-stage cancer, potentially causing complications and reducing the chances of successful treatment. Early detection and prompt treatment are crucial in preventing these detrimental effects.
